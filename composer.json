@@ -3,6 +3,6 @@
     "description": "ALIAS Metapackage amylian/utils - Use amylian/utils instead.",
     "type": "metapackage",
     "require": {
-        "amylian/amylian-utils": "*"
+        "amylian/utils": "*"
     }
 }
